@@ -23,7 +23,6 @@ I struggled with Logto's documentation and wanted to see how things are actually
 - **Identities tab** – only displays existing identities; no linking/unlinking UI
 - **Organizations tab** – only displays membership data; no join/leave actions
 - **WebAuthn** – not implemented at all (planned)
-- **Tests** – zero test coverage
 - **Error handling** – basic try/catch, no user‑friendly error states
 - **Code structure** – monolithic component (`UserProfileData.tsx` is 2800+ lines)
 - **Security** – relies on Logto's API validation; no additional hardening
