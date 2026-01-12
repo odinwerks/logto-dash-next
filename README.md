@@ -135,4 +135,4 @@ npm start
 
 ## License
 
-I really do not care man, just do not hurt yourself trying to run this code and am' good. <3
+I really do not care man, just do not hurt yourself trying to run this stupid code and am' good. <3
